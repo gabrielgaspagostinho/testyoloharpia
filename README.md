@@ -8,4 +8,4 @@ colocar as fotos na pasta imagens_originais e as anotações na pasta anotacoes_
 rodar o arquivo split_data.py para criar o novo dataset 
 devolver o arquivo yaml para dentro do dataset
 
-# Lembrar de mudar dentro do test.py o caminho do ultimo peso 
+# Lembrar de mudar dentro do test.py o caminho do ultimo peso treinado
