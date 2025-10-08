@@ -1,5 +1,5 @@
 # testyoloharpia
-Teste da implementação da biblioteca yolo na identificação de plataformas
+Teste da implementação da biblioteca yolo na identificação de plataformas feita pelo drone para a competição FTL
 
 Para criar o dataset:
 colocar as fotos na pasta imagens_originais e as anotações na pasta anotacoes_temporarias
